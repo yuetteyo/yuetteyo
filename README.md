@@ -6,6 +6,7 @@
 I am currently studying at a programming school to become a frontend developer.  
 Here is a list of technologies that I'm learning and working with:  
 -  C and C++
+-  HTML, CSS and JS
 -  Git, Github and Gitlab
 -  Visual Studio Code
 -  Jira and Canban
