@@ -8,6 +8,7 @@ Here is a list of technologies that I'm learning and working with:
 -  C and C++
 -  Git, Github and Gitlab
 -  Visual Studio Code
+-  Jira and Canban
 
 <div id="header" align="left">
   <img src="https://octodex.github.com/images/femalecodertocat.png" width="148"/>
