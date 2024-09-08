@@ -8,7 +8,7 @@ Here is a list of technologies that I'm working with:
 -  Golang
 -  Git, Github and Gitlab
 -  Visual Studio Code
--  Jira and Canban
+-  Jira, ClickUp and Canban
 
 <div id="header" align="left">
   <img src="https://octodex.github.com/images/femalecodertocat.png" width="148"/>
