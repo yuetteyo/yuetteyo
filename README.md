@@ -3,10 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am currently studying at a programming school to become a frontend developer.  
-Here is a list of technologies that I'm learning and working with:  
+Here is a list of technologies that I'm working with:  
 -  C and C++
--  HTML, CSS and JS
+-  Golang
 -  Git, Github and Gitlab
 -  Visual Studio Code
 -  Jira and Canban
